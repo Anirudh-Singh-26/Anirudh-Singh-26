@@ -1,15 +1,17 @@
-# 💫 Hi there, I'm Anirudh Singh Rathore 👋
+# 💫 Hello there, I'm Anirudh Singh Rathore 👋
 
-I am a **Full Stack Web Developer** and tech enthusiast with a strong foundation in **MERN Stack, Next.js, TypeScript, Node.js, Express.js, React, and Java**.  
-I love building **modern, scalable, and high-performance web applications** that solve real-world problems.  
+I am a **Full Stack Web Developer, DevOps Enthusiast, and Problem Solver**, passionate about building **modern, scalable, and high-performance web applications**.  
 
-I also enjoy exploring **DevOps, CI/CD, Docker, Kubernetes**, and cloud deployments using **Render and Vercel**.  
+With hands-on experience in **MERN Stack, Next.js, TypeScript, React, Node.js, Express.js, and Java**, I love transforming ideas into **real-world digital solutions**.  
+I am also skilled in **authentication, payment integrations (Razorpay), RESTful APIs, Docker, Kubernetes, and CI/CD pipelines**, and always eager to explore new technologies.  
 
-Beyond coding, I actively work on **DSA, algorithms, and backend architecture** to make my solutions efficient and reliable. 🚀  
+Beyond coding, I enjoy **DSA, algorithms, system design**, and exploring ways to optimize and scale applications.  
+
+> “Code is like humor. When you have to explain it, it’s bad.” 😄  
 
 ---
 
-### 📬 Connect With Me
+## 📬 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anirudh-singh-rathore)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/)  
@@ -18,33 +20,32 @@ Beyond coding, I actively work on **DSA, algorithms, and backend architecture** 
 
 ---
 
-### 🌱 Currently Working On
-- **Full Stack Applications** using MERN Stack & Next.js  
-- **TypeScript Projects** for scalable codebases  
-- **Payment Integrations** with Razorpay  
-- Cloud Deployments on **Vercel & Render**  
-- Backend APIs with **Node.js, Express.js & JWT**  
-- CI/CD pipelines and containerization with **Docker & Kubernetes**
+## 🌱 Currently Working On
+- Building **full-stack applications** using MERN Stack & Next.js  
+- Integrating **payment gateways** (Razorpay) and secure authentication (JWT & Bcrypt)  
+- Designing **scalable backend architectures** with Node.js & Express  
+- Deployment & DevOps pipelines with **Docker, Kubernetes, CI/CD, Render, and Vercel**  
+- Writing **clean, efficient, and maintainable code** with TypeScript & modern React  
 
 ---
 
-### 👯 Looking to Collaborate On
-- MERN and Full Stack Web Apps  
-- Payment Gateway & E-commerce Projects  
-- Cloud Deployment & CI/CD pipelines  
-- Open Source Contributions  
+## 👯 Looking to Collaborate On
+- MERN Stack & Full Stack Web Applications  
+- E-commerce & Payment Gateway Projects  
+- DevOps, Cloud Deployment & CI/CD Pipelines  
+- Open Source Contributions & Scalable Architecture  
 
 ---
 
-### 💬 Ask Me About
-- JavaScript, TypeScript, Node.js, React, Express  
-- RESTful APIs, JWT Auth, Postman testing  
-- DSA, Algorithms, Backend Architecture  
-- Docker, Kubernetes, CI/CD, Deployment Strategies  
+## 💬 Ask Me About
+- JavaScript, TypeScript, React, Redux, Next.js  
+- Node.js, Express.js, REST APIs, JWT, Postman  
+- Docker, Kubernetes, CI/CD, Deployment strategies  
+- DSA, Algorithms, Data Structures, and System Design  
 
 ---
 
-### 💻 Tech Stack
+## 💻 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -55,6 +56,7 @@ Beyond coding, I actively work on **DSA, algorithms, and backend architecture** 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=json-web-tokens) 
 ![Docker](https://img.shields.io/badge/docker-%23007ACC.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -68,18 +70,18 @@ Beyond coding, I actively work on **DSA, algorithms, and backend architecture** 
 
 ---
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Anirudh-Singh-26&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
-### 📌 Developer Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🔝 Top Contributed Repositories
+![](https://github-contributor-stats.vercel.app/api?username=Anirudh-Singh-26&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
-### 🔝 Top Contributed Repositories
-![](https://github-contributor-stats.vercel.app/api?username=Anirudh-Singh-26&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 📌 Developer Quote
+> "Strive for continuous improvement, instead of perfection." – Anirudh Singh Rathore  
 
 ---
 
@@ -87,4 +89,4 @@ Beyond coding, I actively work on **DSA, algorithms, and backend architecture** 
 
 ---
 
-⚡ Fun fact: I am constantly learning, experimenting, and building **real-world projects** while exploring **DSA, DevOps, and cloud deployments**.
+⚡ **Fun Fact:** I love **coding, building projects, solving problems**, and exploring **DSA & modern DevOps workflows** to make production-ready apps.
