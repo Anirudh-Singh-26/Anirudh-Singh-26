@@ -6,7 +6,7 @@ With hands-on experience in **MERN Stack, Next.js, TypeScript, React, Node.js, E
 
 I am also proficient in **authentication (JWT, Bcrypt), payment integrations (Razorpay), RESTful APIs, Docker, Kubernetes, CI/CD pipelines, and cloud deployments** using **Render and Vercel**.  
 
-Beyond coding, I actively practice **DSA, algorithms, and system design** to make my solutions **efficient, reliable, and production-ready**. 🚀  
+Beyond coding, I actively practice **DSA, algorithms, and system design** to make my solutions **efficient, reliable, and production-ready**.   
 
 > “Strive for continuous improvement, instead of perfection.” – Anirudh Singh Rathore  
 
@@ -14,12 +14,12 @@ Beyond coding, I actively practice **DSA, algorithms, and system design** to mak
 
 ## 📬 Connect With Me
 
-📧 **Email Me:** 👉 [your.email@example.com](mailto:your.email@example.com)  
+📧 **Email Me:** 👉 [anirudhrathore2003@gmail.com](mailto:anirudhrathore2003@gmail.com)  
 🌱 **I’m currently working on:** MERN Stack projects, Next.js, TypeScript, Docker, Kubernetes  
 👯 **I’m looking to collaborate on:** Full Stack Web Applications, Payment Gateway Integrations, Cloud Deployments  
 🤔 **I’m looking for help with:** Open Source Contributions & Scalable Architectures  
 💬 **Ask me about:** JavaScript, TypeScript, React, Node.js, Express, RESTful APIs, DSA & DevOps  
-📫 **How to reach me:** [your.email@example.com](mailto:your.email@example.com)  
+📫 **How to reach me:** [anirudhrathore2003@gmail.com](mailto:anirudhrathore2003@gmail.com)  
 😄 **Pronouns:** He/Him  
 ⚡ **Fun fact:** I love combining **code & coffee**, and sometimes debugging gives me more satisfaction than coding 😅  
 
@@ -98,7 +98,9 @@ Beyond coding, I actively practice **DSA, algorithms, and system design** to mak
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Anirudh-Singh-26&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://img.shields.io/badge/Profile%20Views-0-blue)
+![Anirudh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anirudh-Singh-26&show_icons=true&theme=radical)
+
 
 ---
 
