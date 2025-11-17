@@ -4,7 +4,7 @@ I am a **Full Stack Web Developer, DevOps Enthusiast, and Problem Solver**, pass
 
 With hands-on experience in **MERN Stack, Next.js, TypeScript, React, Node.js, Express.js, and Java**, I enjoy transforming ideas into **real-world digital solutions**.  
 
-I am also proficient in **authentication (JWT, Bcrypt), payment integrations (Razorpay), RESTful APIs, Docker, Kubernetes, CI/CD pipelines, and cloud deployments** using **Render and Vercel**.  
+I am also proficient in **authentication (JWT, Bcrypt), payment integrations (Razorpay), RESTful APIs, Docker, CI/CD pipelines, and deployments** using **Render and Vercel**.  
 
 Beyond coding, I actively practice **DSA, algorithms, and system design** to make my solutions **efficient, reliable, and production-ready**.   
 
